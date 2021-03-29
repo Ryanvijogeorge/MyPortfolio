@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+}
+
+
+#Home {
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    position:absolute;
+    overflow: hidden;
+    height: 800px;
+    color:aliceblue;
+    left: 0;
+    right:0;
+    top:0;
+    bottom:0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.83;
+    display: table;
+    }
+
+p {
+    font-size: 25px;
+}
+
+#Heading1 {
+    font-size: 40px;
+}
+
+#heading2 {
+    font-size: 40px;
+    font-family: monospace;
+    color: black;
+}
+#biop { 
+
+    margin: 25px auto;
+    font-size: 25px;
+    line-height: 1.3;
+}
+    
+
+#bio {
+    padding: 50px;
+    text-align: center;
+}
+
+#journ {
+    background: linear-gradient(#e38820 0%, #e2c921 100%)
+}
+
+.tsaerial {
+    border-radius: 50%;
+}
+
+#journ {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+h1 {
+    color:brown;
+    font-size: 50px;
+3}
+
+
+
